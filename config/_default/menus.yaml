@@ -7,21 +7,21 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Personal
-    url: '#posts'
-    weight: 30
+  - name: "Personal Projects"
+    url: 'personal/'
+    weight: 40
   #- name: Projects
   #  url: '#projects'
   #  weight: 30
   - name: Let's Talk Science
-    url: '#talks'
-    weight: 20
+    url: 'science/'
+    weight: 30
   #- name: Publications
   #  url: '#featured'
   #  weight: 50
   - name: Flarescope
-    url: 'flarescope'
-    weight: 15
+    url: 'flarescope/'
+    weight: 20
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

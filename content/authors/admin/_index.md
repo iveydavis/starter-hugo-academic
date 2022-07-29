@@ -1,7 +1,7 @@
 ---
 title: Ivey Davis (they/them)
 role: Graduate Student
-avatar_filename: me.jpeg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Stellar astrophysics
