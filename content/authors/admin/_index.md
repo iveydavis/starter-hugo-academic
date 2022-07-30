@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: idavis@caltech.edu
+    link: "mailto:idavis@caltech.edu"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/IveyEDavis
