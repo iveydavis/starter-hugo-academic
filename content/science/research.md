@@ -8,10 +8,10 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 40
-private: true
+#private: true
 title: 'Research Summaries'
 subtitle:
-active: true
+active: false
 content:
   # Page type to display. E.g. post, event, publication...
   page_type: post

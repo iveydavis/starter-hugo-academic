@@ -8,10 +8,10 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 70
-private: true
+#private: true
 title: 'Recent & Upcoming Talks'
 subtitle:
-active: true
+active: false
 content:
   # Page type to display. E.g. post, event, publication...
   page_type: post
