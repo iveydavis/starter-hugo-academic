@@ -20,14 +20,17 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ivey-davis-a04440146/
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 organizations:
   - name: California Institute of Technology
     url: ""
 education:
   courses:
-    - course: Graduate Student
+    - course: PhD Student
       institution: California Institute of Technology
-      year: "Expected year: 2026"
+      year: "Expected year: 2025"
     - course: MSc in Astrophysics
       institution: California Institute of Technology
       year: 2022
