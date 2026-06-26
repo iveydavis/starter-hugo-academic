@@ -27,7 +27,7 @@ education:
   courses:
     - course: PhD in Astrophysics
       institution: California Institute of Technology
-      year: 2025s
+      year: 2025
     - course: MSc in Astrophysics
       institution: California Institute of Technology
       year: 2022
